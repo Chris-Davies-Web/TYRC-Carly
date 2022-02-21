@@ -1,0 +1,2 @@
+2021-04-11T16:59:27+00:00 CRITICAL Cannot redeclare my_sanitation() (previously declared in C:\Users\chris.davies\Local Sites\theyorkshirerefillco\app\public\wp-content\themes\the-yorkshire-refill-co\inc\customiser-pages\homepage\config.php:590) in C:\Users\chris.davies\Local Sites\theyorkshirerefillco\app\public\wp-content\themes\the-yorkshire-refill-co\inc\customiser-pages\how-we-work\config.php on line 177
+
